@@ -11,9 +11,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  github_contributions: ^0.2.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  import_sorter: ^3.0.3
+  import_sorter: ^3.0.4
 flutter:
