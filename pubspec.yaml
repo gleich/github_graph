@@ -1,6 +1,6 @@
 name: github_graph
 description: GitHub Graphs a pure flutter widgets
-version: 3.0.3
+version: 1.0.0
 repository: 'https://github.com/Matt-Gleich/import_sorter'
 homepage: 'https://mattglei.ch/#/'
 maintainer: Matthew Gleich (@Matt-Gleich)
@@ -16,5 +16,8 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  import_sorter: ^3.0.4
+  import_sorter: ^3.0.6
 flutter:
+
+import_sorter:
+  emojis: true
