@@ -1,7 +1,9 @@
 library github_graph;
 
-// 📱 Flutter imports:
+// 🐦 Flutter imports:
 import 'package:flutter/material.dart';
+
+// 📦 Package imports:
 import 'package:github_contributions/github_contributions.dart';
 
 class ContributionGrid extends StatelessWidget {
